@@ -1,0 +1,6 @@
+. filter=lfs diff=lfs merge=lfs -text
+app.py filter=lfs diff=lfs merge=lfs -text
+utils.py filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
+react_app/ filter=lfs diff=lfs merge=lfs -text
+__pycache__/ filter=lfs diff=lfs merge=lfs -text
